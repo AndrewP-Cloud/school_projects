@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment1.params=accOwner\ accBalance\ minBalance
+comment1.target=SavingsAccount(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=withdraw
+comment3.target=double\ withdraw(double)
+comment4.params=
+comment4.target=void\ applyInterest()
+numComments=5
