@@ -13,10 +13,3 @@ My classes were both Java, but I am currently learning other languages so you ca
 I will be leaving this open so that my development can be addressed when I have completed more advanced projects.
 
 ***NOTE: All of my college projects aren't here because I was horribly unorganized and uninterested in coding in my college career***
-
-Upcoming Project Descriptions:
-1. A fully functioning OOP program to display fundementals I learned in college and review them to prep for harder projects.
-2. A functioning .Net application (not sure what app yet)
-3. A small data science project related to food epidemiology that uses Pythons scraping, mySQL for storage and sends to a Tableau for visual represntation.
-5. A website using JavaScript, CSS, and HTML to host my projects and practice visual design
-6. A data structures and algorithms visualizer that will allow me to learn more about them since I only had the data structure part.
